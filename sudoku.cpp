@@ -3,11 +3,11 @@
 //
 // Sudoku
 
-// Student Name
+// Salvador García
 // Student Number
 // and
-// Student Name
-// Student Number
+// Alan Valdovinos
+// A01630321
 
 // Standard libraries
 #include <string>
